@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 [README](https://github.com/wnstjdqkr/2025_PHwal)
 ![GitHub followers](https://img.shields.io/github/followers/wnstjdqkr?style=social)
 ![image](https://github.com/user-attachments/assets/5da3f6fd-b458-4527-acf3-7d0958411f48)
+![GitHub stars](https://img.shields.io/github/stars/wnstjdqkr?style=social)
+![image](https://github.com/user-attachments/assets/6944688c-0aeb-4446-8f6c-bcd9200cb977)
+
 
