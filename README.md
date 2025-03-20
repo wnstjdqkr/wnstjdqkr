@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 --> 
 [README](https://github.com/wnstjdqkr/2025_PHwal)
 ![GitHub followers](https://img.shields.io/github/followers/wnstjdqkr?style=social)
+
 ![GitHub stars](https://img.shields.io/github/stars/wnstjdqkr?style=social)
+
 ### 통계
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wnstjdqkr&show_icons=true&theme=radical)
 
