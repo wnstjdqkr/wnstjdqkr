@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 [README](https://github.com/wnstjdqkr/2025_PHwal)
-
+### 팔로워 배지
 ![GitHub followers](https://img.shields.io/github/followers/wnstjdqkr?style=social)
+### 스타 배지
 ![GitHub stars](https://img.shields.io/github/stars/wnstjdqkr?style=social)
+### 사용자 통계
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wnstjdqkr&show_icons=true&theme=radical)
 
 
