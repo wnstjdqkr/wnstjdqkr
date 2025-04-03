@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 내가 처음 만든 게임
 flight_game
 
-https://wnstjdqkr/flight_game
+
 
 
 
