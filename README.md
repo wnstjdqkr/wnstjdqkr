@@ -35,4 +35,7 @@ https://github.com/wnstjdqkr/flight_game
 
 
 
+mainwindowclass코드
+https://github.com/wnstjdqkr/mainwindowclass
+
 
